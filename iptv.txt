@@ -4,7 +4,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC電影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 AXN电影台,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
-CCTV10,http://39.164.180.36:19901/tsfile/live/0009_1.m3u8
+CCTV10,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8
 CCTV2,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8
 CCTV5,http://39.164.180.36:19901/tsfile/live/0005_1.m3u8
 CCTV6,http://39.164.180.36:19901/tsfile/live/0006_1.m3u8
