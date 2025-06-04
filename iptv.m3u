@@ -6706,9 +6706,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php
 #EXTINF:-1 tvg-name="美亞電影台(HK)",美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="羽球直播",羽球直播
-http://play.cbalive.weibisai.com/live/3895418504394061_AiHD.m3u8?txSecret=434d97baf94417303400d491d3c8f60f&txTime=6833CB20
+http://play.cbalive.weibisai.com/live/3915975529972061_AiHD.m3u8?txSecret=6b3e188e3c61378e948977731c3e2e9c&txTime=6840DE00
 #EXTINF:-1 tvg-name="羽球直播",羽球直播
-http://play.cbalive.weibisai.com/live/3779448148561061_AiHD.m3u8?txSecret=8f67123284cab39750d0f2b7e8b7e1cc&txTime=676E5E80
+http://play.cbalive.weibisai.com/live/3915975706139061_AiHD.m3u8?txSecret=a0491bca408bd65e3fc02c9d429bda3a&txTime=6840DE00
 #EXTINF:-1 tvg-name="羽球直播",羽球直播
 http://play.cbalive.weibisai.com/live/3738205416028061_AiHD.m3u8?txSecret=5d3007e91c1c87632e5653a853960a10&txTime=6737D270
 #EXTINF:-1 tvg-name="羽球直播",羽球直播
