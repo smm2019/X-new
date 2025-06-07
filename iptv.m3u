@@ -6628,7 +6628,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="美亞電影台(HK)",美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="羽球直播",羽球直播
-http://play.cbalive.weibisai.com/live/3921642534169061_AiHD.m3u8?txSecret=be6617680882a8b55a61d63b60f7ab41&txTime=6843B940
+http://play.cbalive.weibisai.com/live/3915979536254061_AiHD.m3u8?txSecret=4efccdf325eb8652efd28fe473f1f8fc&txTime=6844FCB0
 #EXTINF:-1 tvg-name="羽球直播",羽球直播
 http://play.cbalive.weibisai.com/live/3921642982870061_AiHD.m3u8?txSecret=edaf77e9981f4189c32cda31aff845b1&txTime=6843B940
 #EXTINF:-1 tvg-name="羽球直播",羽球直播
